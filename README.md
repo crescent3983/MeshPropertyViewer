@@ -4,13 +4,26 @@
 
 Visualization of Unity Mesh properties in scene.
 
+## Compatibility
+
+Only tested with below versions but may be compatible with other versions.
+
+| Version
+|------
+| Unity 2018.4.x
+| Unity 2020.3.x
+
 ## Usage
 
-Add `MeshPropertyViewer` to gameobject that has MeshRenderer or its parent and then selected.
++ Use whole project or copy `Assets/MeshPropertyViewer` to your project
+
++ Add `MeshPropertyViewer` to gameobject that has MeshRenderer or its parent and then selected.
 
 ![Mesh Property Viewer](./readme_assets/mesh_property_viewer.png)
 
 ## Mesh Property
+
++ Narmaya © Cygames, Inc
 
 <table>
     <tr>
